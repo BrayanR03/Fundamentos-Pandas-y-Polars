@@ -1,4 +1,4 @@
-# 🐼🐻 Fundamentos de Pandas y Polars
+# 🐼🐻‍❄️ Fundamentos de Pandas y Polars
 
 > **"Domina los datos desde la base, un paso a la vez."**  
 > — Brayan Neciosup
