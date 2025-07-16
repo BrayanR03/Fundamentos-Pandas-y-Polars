@@ -26,7 +26,7 @@ Actualmente, se encuentra en desarrollo.
 ### 🧠 ¿Por qué Pandas y Polars?
 
 - 🐼 **Pandas**: es la base del análisis de datos en Python.
-- 🐻 **Polars**: la evolución de Pandas, más veloz y eficiente en entornos modernos.
+- 🐻‍❄️ **Polars**: la evolución de Pandas, más veloz y eficiente en entornos modernos.
 
 Este repositorio es ideal tanto para quienes están empezando como para quienes quieren migrar de Pandas a Polars con un enfoque claro.
 
