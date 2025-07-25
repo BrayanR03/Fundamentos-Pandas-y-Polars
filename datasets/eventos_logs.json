@@ -1,0 +1,352 @@
+[
+    {
+        "evento": {
+            "usuario_id": "U846",
+            "accion": "compra",
+            "timestamp": "2025-05-25T21:07:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U321",
+            "accion": "registro",
+            "timestamp": "2025-05-23T11:50:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U813",
+            "accion": "login",
+            "timestamp": "2025-05-25T19:09:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U677",
+            "accion": "registro",
+            "timestamp": "2025-05-27T09:41:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U425",
+            "accion": "compra",
+            "timestamp": "2025-05-23T14:44:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U602",
+            "accion": "login",
+            "timestamp": "2025-05-26T06:18:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U312",
+            "accion": "logout",
+            "timestamp": "2025-05-23T15:03:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U215",
+            "accion": "logout",
+            "timestamp": "2025-05-25T22:46:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U650",
+            "accion": "logout",
+            "timestamp": "2025-05-23T09:23:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U707",
+            "accion": "login",
+            "timestamp": "2025-05-23T07:56:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U197",
+            "accion": "logout",
+            "timestamp": "2025-05-23T19:46:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U685",
+            "accion": "login",
+            "timestamp": "2025-05-24T15:00:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U362",
+            "accion": "compra",
+            "timestamp": "2025-05-24T19:01:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U445",
+            "accion": "registro",
+            "timestamp": "2025-05-27T16:51:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U597",
+            "accion": "logout",
+            "timestamp": "2025-05-22T21:02:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U952",
+            "accion": "compra",
+            "timestamp": "2025-05-27T10:06:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U809",
+            "accion": "logout",
+            "timestamp": "2025-05-24T21:18:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U958",
+            "accion": "registro",
+            "timestamp": "2025-05-22T07:31:47.202219Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U994",
+            "accion": "login",
+            "timestamp": "2025-05-28T05:44:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U746",
+            "accion": "registro",
+            "timestamp": "2025-05-23T09:43:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U728",
+            "accion": "logout",
+            "timestamp": "2025-05-27T03:01:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U133",
+            "accion": "compra",
+            "timestamp": "2025-05-23T22:31:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U206",
+            "accion": "registro",
+            "timestamp": "2025-05-26T08:23:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U679",
+            "accion": "login",
+            "timestamp": "2025-05-25T15:39:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U973",
+            "accion": "registro",
+            "timestamp": "2025-05-23T16:06:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U727",
+            "accion": "login",
+            "timestamp": "2025-05-24T13:55:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U611",
+            "accion": "logout",
+            "timestamp": "2025-05-22T08:00:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U581",
+            "accion": "registro",
+            "timestamp": "2025-05-26T10:13:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U602",
+            "accion": "logout",
+            "timestamp": "2025-05-26T16:13:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U763",
+            "accion": "compra",
+            "timestamp": "2025-05-24T05:52:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U796",
+            "accion": "registro",
+            "timestamp": "2025-05-25T12:17:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U406",
+            "accion": "logout",
+            "timestamp": "2025-05-26T09:48:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U671",
+            "accion": "registro",
+            "timestamp": "2025-05-27T02:52:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U928",
+            "accion": "compra",
+            "timestamp": "2025-05-22T21:22:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U726",
+            "accion": "registro",
+            "timestamp": "2025-05-26T03:11:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U325",
+            "accion": "logout",
+            "timestamp": "2025-05-23T21:49:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U253",
+            "accion": "logout",
+            "timestamp": "2025-05-28T09:40:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U595",
+            "accion": "login",
+            "timestamp": "2025-05-25T13:05:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U622",
+            "accion": "login",
+            "timestamp": "2025-05-21T15:11:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U522",
+            "accion": "login",
+            "timestamp": "2025-05-25T03:23:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U909",
+            "accion": "logout",
+            "timestamp": "2025-05-27T16:59:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U463",
+            "accion": "compra",
+            "timestamp": "2025-05-26T01:38:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U829",
+            "accion": "login",
+            "timestamp": "2025-05-23T07:04:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U539",
+            "accion": "compra",
+            "timestamp": "2025-05-26T18:52:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U684",
+            "accion": "logout",
+            "timestamp": "2025-05-27T03:32:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U456",
+            "accion": "compra",
+            "timestamp": "2025-05-21T15:29:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U710",
+            "accion": "compra",
+            "timestamp": "2025-05-21T16:00:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U401",
+            "accion": "compra",
+            "timestamp": "2025-05-24T08:42:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U665",
+            "accion": "compra",
+            "timestamp": "2025-05-23T06:20:47.203223Z"
+        }
+    },
+    {
+        "evento": {
+            "usuario_id": "U711",
+            "accion": "login",
+            "timestamp": "2025-05-28T01:24:47.203223Z"
+        }
+    }
+]
