@@ -41,7 +41,7 @@ Este repositorio es ideal tanto para quienes están empezando como para quienes 
 
 ### 📅 Estado del proyecto
 
-> 🚧 En construcción: contenidos en preparación...  
+> 🚧 En desarrollo: Cada día subiendo nuevo contenido 📊 
 > Sígueme en LinkedIn para enterarte de cada nueva publicación y actualización.
 
 ---
