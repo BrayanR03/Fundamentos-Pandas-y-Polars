@@ -1,0 +1,82 @@
+{
+    "ventas": [
+        {
+            "nro_venta": 1001,
+            "fecha": "2024-01-22",
+            "cliente": "Cliente_10",
+            "total": 350.25
+        },
+        {
+            "nro_venta": 1002,
+            "fecha": "2024-02-15",
+            "cliente": "Cliente_3",
+            "total": 410.50
+        },
+        {
+            "nro_venta": 1003,
+            "fecha": "2024-03-08",
+            "cliente": "Cliente_7",
+            "total": 120.75
+        },
+        {
+            "nro_venta": 1004,
+            "fecha": "2024-04-20",
+            "cliente": "Cliente_1",
+            "total": 250.00
+        },
+        {
+            "nro_venta": 1005,
+            "fecha": "2024-05-11",
+            "cliente": "Cliente_10",
+            "total": 300.90
+        },
+        {
+            "nro_venta": 1006,
+            "fecha": "2024-06-03",
+            "cliente": "Cliente_5",
+            "total": 450.15
+        },
+        {
+            "nro_venta": 1007,
+            "fecha": "2024-07-28",
+            "cliente": "Cliente_8",
+            "total": 180.40
+        },
+        {
+            "nro_venta": 1008,
+            "fecha": "2024-08-19",
+            "cliente": "Cliente_4",
+            "total": 320.60
+        },
+        {
+            "nro_venta": 1009,
+            "fecha": "2024-09-02",
+            "cliente": "Cliente_9",
+            "total": 290.30
+        },
+        {
+            "nro_venta": 1010,
+            "fecha": "2024-10-10",
+            "cliente": "Cliente_2",
+            "total": 380.00
+        },
+        {
+            "nro_venta": 1011,
+            "fecha": "2024-11-25",
+            "cliente": "Cliente_6",
+            "total": 210.50
+        },
+        {
+            "nro_venta": 1012,
+            "fecha": "2024-12-07",
+            "cliente": "Cliente_10",
+            "total": 470.90
+        },
+        {
+            "nro_venta": 1012,
+            "fecha": "2024-12-07",
+            "cliente": "Cliente_1",
+            "total": 470.90
+        }
+    ]
+}
