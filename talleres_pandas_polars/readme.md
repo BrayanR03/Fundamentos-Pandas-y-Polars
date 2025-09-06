@@ -20,7 +20,7 @@ Todo el contenido está acompañado de ejemplos prácticos y soluciones, disponi
 Este taller se desarrolla de manera **progresiva y diaria**.  
 Aquí queda registrada cada actualización:  
 
-- 📅 **05/09/2025** →  ✅ Nivel Intermedio desarrollado . Tema: *FUNDAMENTOS DE DATA WRANGLING (MANIPULACIÓN DE DATOS)*. 
+- 📅 **06/09/2025** →  ✅ Nivel Intermedio desarrollado . Tema: *FUNDAMENTOS DE DATA WRANGLING (MANIPULACIÓN DE DATOS)*. 
 - 📅 **04/09/2025** → 🚀 Inicio del Taller. Tema: *FUNDAMENTOS DE DATA WRANGLING (MANIPULACIÓN DE DATOS)*. Nivel Básico desarrollado✅  
 
 *(Las próximas actualizaciones se registrarán aquí con cada commit 📝).*  
