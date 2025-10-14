@@ -20,6 +20,7 @@ Todo el contenido está acompañado de ejemplos prácticos y soluciones, disponi
 Este taller se desarrolla de manera **progresiva y diaria**.  
 Aquí queda registrada cada actualización:  
 
+- 📅 **04/10/2025** → ✅ Nivel Intermedio desarrollado . Tema: *AGREACIONES Y AGRUPACIONES*.
 - 📅 **30/09/2025** → 🚀 Inicio - Taller 3. Tema: *AGREGACIONES Y AGRUPACIONES)*. Nivel Básico desarrollado✅
 
 - 📅 **26/09/2025** →  ✅ Nivel Avanzado desarrollado . Tema: *FEATURE ENGINEERING (INGENIERÍA DE CARACTERÍSTICAS)*. 
