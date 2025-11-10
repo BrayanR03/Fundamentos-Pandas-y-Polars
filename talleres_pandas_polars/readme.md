@@ -20,9 +20,11 @@ Todo el contenido está acompañado de ejemplos prácticos y soluciones, disponi
 Este taller se desarrolla de manera **progresiva y diaria**.  
 Aquí queda registrada cada actualización:  
 
+- 📅 **17/10/2025** → 🚀 Inicio - Taller 5. Tema: *TIME SERIES*. Nivel Básico desarrollado✅
+
 - 📅 **03/11/2025** → ✅ Nivel Avanzado desarrollado. Tema: *WINDOW FUNCTIONS*.
 - 📅 **23/10/2025** → ✅ Nivel Intermedio desarrollado. Tema: *WINDOW FUNCTIONS*.
-- 📅 **17/10/2025** → 🚀 Inicio - Taller 3. Tema: *WINDOW FUNCTIONS*. Nivel Básico desarrollado✅
+- 📅 **17/10/2025** → 🚀 Inicio - Taller 4. Tema: *WINDOW FUNCTIONS*. Nivel Básico desarrollado✅
 
 - 📅 **14/10/2025** → ✅ Nivel Avanzado desarrollado . Tema: *AGREACIONES Y AGRUPACIONES*.
 - 📅 **04/10/2025** → ✅ Nivel Intermedio desarrollado . Tema: *AGREACIONES Y AGRUPACIONES*.
